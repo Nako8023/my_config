@@ -13,3 +13,7 @@ host, hboasia3-i.akamaihd.net, GlobalMedia
 host, hboasia4-i.akamaihd.net, GlobalMedia
 host, hboasia5-i.akamaihd.net, GlobalMedia
 host, cf-images.ap-southeast-1.prod.boltdns.net, GlobalMedia
+
+# > Now E
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nowestatic.com
